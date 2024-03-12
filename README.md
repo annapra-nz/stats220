@@ -13,8 +13,8 @@ These will include:
 6. Project 6
 
 ## Some facts about me:
-- I am a fifth-year student at UoA, but only started studying Statistics last year
-- My hometown is Palmerston North
-- I have a pet dog 
+* I am a fifth-year student at UoA, but only started studying Statistics last year
+* My hometown is Palmerston North
+* I have a pet dog 
 
 **Here's a link to my [LinkedIn page](https://www.linkedin.com/in/anna-prasitdamrong/).**
